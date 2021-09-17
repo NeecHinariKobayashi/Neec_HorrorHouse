@@ -1,2 +1,0 @@
-*.gif filter=lfs diff=lfs merge=lfs -text
-UE4Project/NeecHorrorHouse/Content/4lfs/**/*.uasset filter=lfs diff=lfs merge=lfs -text
